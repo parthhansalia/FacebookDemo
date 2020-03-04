@@ -8,8 +8,8 @@ import pages.FbLoginPage;
 
 public class FbLoginTest extends TestBase {
 
-    private static final String userName = "parthhansalia12@gmail.com";
-    private static final String userPass = "P@rth94293511651294";
+    private static final String userName = "abc@gmail.com";
+    private static final String userPass = "abc@123";
     private static final String status = "Hello World";
 
 
